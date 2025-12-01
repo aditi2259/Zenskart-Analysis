@@ -1,4 +1,4 @@
-🛍️ Zenkart – Python Shopping Cart System
+*Zenkart – Python Shopping Cart System Analysis*
 
 Zenkart is a beginner-friendly Python-based e-commerce cart system built using a Jupyter Notebook.
 It allows users to browse products, add/remove items to the cart, update quantities, and generate a complete order summary.
